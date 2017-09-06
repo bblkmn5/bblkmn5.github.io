@@ -1,0 +1,21 @@
+# Site settings
+title: Software Development: Why learn it?
+header-img: img/home-bg.png
+email: bblkmn5@gmail.com
+copyright_name: bblkmn5
+description: > # this means to ignore newlines until "baseurl:"
+  Why I decided to learn software development
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  bblkmn5
+learn_profile: bblkmn5
+email_username: bblkmn5@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
