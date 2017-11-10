@@ -30,7 +30,7 @@ In conclusion, I had a difficult time creating this gem (which is good!). I lear
 
 Future features I am interested in for my gem include: grabbing the time of and event age group attributes to provide to user, allowing for splitting of multiple genres for each event, scraping a full description within more info, and adding a saved checkout "cart" list for what events a user is interested in. 
 
-My gem can be found at: https://rubygems.org/gems/events-today-cli-app
+My gem can be found at: [https://rubygems.org/gems/events-today-cli-app](http://)
 
 
 
