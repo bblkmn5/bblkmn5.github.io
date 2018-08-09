@@ -1,10 +1,10 @@
 # Site settings
-title: Why learn software development
+title: Benjamin Blackman: Full Stack Web Developer
 header-img: img/home-bg.png
 email: bblkmn5@gmail.com
 copyright_name: bblkmn5
 description: > # this means to ignore newlines until "baseurl:"
-  Why I decided to learn software development
+  A collection of my time working through Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bblkmn5
